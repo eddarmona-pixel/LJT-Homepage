@@ -33,4 +33,14 @@ I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, whe
 - **Tencent WXG**, Research Intern, June-September 2024.
 - **Shanghai AI Lab**, Research Intern, June-December 2023.
 
-[Publications]({{ '/publications/' | relative_url }}) | [CV and skills]({{ '/cv/' | relative_url }}) | [Contact]({{ '/contact/' | relative_url }})
+[CV and skills]({{ '/cv/' | relative_url }})
+
+## Contact
+
+**Junteng Liu**  
+HKUST NLP Group, Hong Kong University of Science and Technology
+
+- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X:** [@junteng88716710](https://x.com/junteng88716710)
