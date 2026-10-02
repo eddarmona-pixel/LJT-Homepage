@@ -1,64 +1,41 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Hong Kong University of Science and Technology**  
+Ph.D. in Computer Science, 2024-present.  
+HKUST NLP Group; supervisor: Professor Junxian He.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Shanghai Jiao Tong University**  
+B.Eng., 2020-2024; graduated June 2024.  
+Undergraduate research advisor: Professor Junxian He.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **MINIMAX** - Research Intern, February 2025-present.
+- **Tencent WXG** - Research Intern, June-September 2024.
+- **Shanghai AI Lab** - Research Intern, June-December 2023.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills and Research Expertise
+
+- Natural language processing and machine learning
+- LLM reasoning and reinforcement learning
+- Vision-language model hallucination research
+- LLM truthfulness and interpretability
+
+## Honors
+
+Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
+
+## Publications
+
+[Publication record]({{ '/publications/' | relative_url }})
+
+## Contact
+
+[Email](mailto:jliugi@connect.ust.hk) | [GitHub](https://github.com/Vicent0205) | [Google Scholar](https://scholar.google.com/citations?user=tbK9jl4AAAAJ)
