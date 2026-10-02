@@ -9,6 +9,12 @@ I am a Ph.D. candidate in Computer Science at the Hong Kong University of Scienc
 
 I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He.
 
+## Publications
+
+{% include personal-publications.html year_heading="h3" %}
+
+[Publications page]({{ '/publications/' | relative_url }})
+
 ## Research Interests
 
 - LLM reasoning and reinforcement learning
