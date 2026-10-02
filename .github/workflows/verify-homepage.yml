@@ -28,3 +28,4 @@ jobs:
           grep -q 'jliugi@connect.ust.hk' _site/contact/index.html
           grep -q '/LJT-Homepage/publications/' _site/index.html
           test ! -e _site/markdown/index.html
+          python3 .github/scripts/verify-publications.py
